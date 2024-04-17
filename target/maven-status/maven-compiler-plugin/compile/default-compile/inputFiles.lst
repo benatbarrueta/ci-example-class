@@ -1,8 +1,8 @@
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/Resource.java
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/pojo/MessageData.java
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/pojo/DirectMessage.java
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/Main.java
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/client/ExampleClient.java
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/pojo/UserData.java
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/jdo/Message.java
-/Users/benatbarrueta/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/jdo/User.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/server/jdo/Message.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/server/jdo/User.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/server/Resource.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/server/Main.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/pojo/MessageData.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/pojo/DirectMessage.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/pojo/UserData.java
+/Users/benatbarrueta/Desktop/continuos-integration-example-2/ci-example-class/src/main/java/es/deusto/spq/client/ExampleClient.java

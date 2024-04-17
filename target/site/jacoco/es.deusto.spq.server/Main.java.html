@@ -19,11 +19,11 @@ import org.glassfish.jersey.server.ResourceConfig;
     public static HttpServer startServer() {
         // create a resource config that scans for JAX-RS resources and providers
         // in com.example package
-<span class="nc" id="L22">        final ResourceConfig rc = new ResourceConfig().packages(&quot;es.deusto.spq&quot;);</span>
+<span class="fc" id="L22">        final ResourceConfig rc = new ResourceConfig().packages(&quot;es.deusto.spq&quot;);</span>
 
         // create and start a new instance of grizzly http server
         // exposing the Jersey application at BASE_URI
-<span class="nc" id="L26">        return GrizzlyHttpServerFactory.createHttpServer(URI.create(BASE_URI), rc);</span>
+<span class="fc" id="L26">        return GrizzlyHttpServerFactory.createHttpServer(URI.create(BASE_URI), rc);</span>
     }
 
     public static void main(String[] args) throws IOException {
